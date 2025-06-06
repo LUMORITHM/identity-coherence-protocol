@@ -57,4 +57,3 @@ Your initials or pseudonym will be used for anonymized reviewer attribution (unl
 ---
 
 Thank you for helping us push the boundaries of behavioral AI research with integrity, transparency, and science.
-
